@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anjith Kumar Singh
+# Hi, I'm Anjith Kumar Singh
 
 ### Data Scientist | Machine Learning Developer | Python Developer
 
@@ -73,7 +73,7 @@ A web application designed to manage trekking-related information and workflows.
 
 **Technologies:** Python, Flask, HTML, CSS, and Jinja2 *(adjust this list to match the actual project).*
 
-[Explore My Repositories](https://github.com/AnjithSingh?tab=repositories)
+[View Repository](https://github.com/AnjithSingh/Trekking_Management_Application)
 
 ---
 
@@ -85,13 +85,12 @@ A web application designed to manage trekking-related information and workflows.
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnjithSingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjithSingh)
 [![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjithsingh1t@gmail.com)
 
 ---
+ If you find my projects interesting, feel free to explore my repositories and connect with me!
 
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
-
-*Always learning. Always building. Always improving.* 🚀
+*Always learning. Always building. Always improving.*
